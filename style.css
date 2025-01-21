@@ -139,7 +139,7 @@ body {
   font-size: 1.4rem;
   line-height: 142.857%;
   background-color: var(--Cyan);
-  opacity: 0.65;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 635px) {
