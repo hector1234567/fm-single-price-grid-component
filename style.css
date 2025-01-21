@@ -172,6 +172,10 @@ body {
 }
 
 @media screen and (max-width: 419px) {
+  .single-price {
+    min-height: 100dvh;
+  }
+
   .single-price__subscription {
     grid-column: 1 / 3;
   }
