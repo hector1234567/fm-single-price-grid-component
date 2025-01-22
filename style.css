@@ -154,8 +154,8 @@ body {
 
 @media screen and (max-width: 559px) {
   .single-price {
-    border-radius: 0;
     width: 100%;
+    margin: 2rem;
   }
 
   .single-price__join {
